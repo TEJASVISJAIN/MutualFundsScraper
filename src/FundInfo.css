@@ -1,0 +1,43 @@
+.fund-info-modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .fund-info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightgray;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: blue;
+    text-align: center;
+  }
+  
+  p {
+    color: green;
+    text-align: center;
+  }
+  
+  a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  button {
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: blue;
+  }
